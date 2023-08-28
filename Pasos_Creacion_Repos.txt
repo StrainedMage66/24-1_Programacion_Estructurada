@@ -1,1 +1,6 @@
-Holis 
+-Primero buscas github en internet
+-Despues tienes que crear tu cuenta
+-Y una vez creada, en la esquina superior izquierda hay tres rallitas, le picas ahi y seleccionas home
+-Despues ahi en esa pestaña hay un boton verde que dice "new" iguen en la esquina superior izquierda
+-Seleccionas un nombre para tu repositorio y le das a create
+-Y ya lo creaste!
