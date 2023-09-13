@@ -1,0 +1,4 @@
+﻿  P03_5_Calculadora_V02.cpp
+C:\Users\LABORATORIO 210\Desktop\24-1_Programacion_Estructurada\P03_5_Calculadora_V02\P03_5_Calculadora_V02.cpp(38,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LABORATORIO 210\Desktop\24-1_Programacion_Estructurada\P03_5_Calculadora_V02\P03_5_Calculadora_V02.cpp(76,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  P03_5_Calculadora_V02.vcxproj -> C:\Users\LABORATORIO 210\Desktop\24-1_Programacion_Estructurada\P03_5_Calculadora_V02\Debug\P03_5_Calculadora_V02.exe
