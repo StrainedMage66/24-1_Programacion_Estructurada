@@ -1,0 +1,2 @@
+C:\Users\ana banana\Desktop\Tutorial\StaticMath\Debug\MathLibrary.pdb
+C:\Users\ana banana\Desktop\Tutorial\StaticMath\MathLibrary\Debug\MathLibrary.pdb
